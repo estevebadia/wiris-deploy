@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "alg": "RS256",
+      "use": "sig",
+      "e": "AQAB",
+      "n": "1vHrji-MQOrhIoeYq4WdMK0V4gZS_fqTnjqy2NfGK8RVvQUl_GM1a_LZVkXYwC0GnSeUljQxkjnEcOACPwH0ePUS0GnwclJnOtgYsrAmveh8irN3iVpxa6i5Bej93FNmeYXZjvji1a7kTJgQjpVQmgRYshUIaP2q8QpXDO2sYwPR7B5Nc30C2hFS1-yNBx7XB4h94u7XOQMShce6FDfDsGaq_NOYRYMv_xBgfCTl2drYmJo-uRVA-erye11nFazPuA2IwWJmC0ArmrmtIdLKt1zRctweVrw449oAqUl0LUqFmMdxXxN1ZjLE18210vRvhcBCYjOCbK58NhAHBq16mQ",
+      "kid": "test-key-wiris-quizzes-lti-1p3"
+    }
+  ]
+}
