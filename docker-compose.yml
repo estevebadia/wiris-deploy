@@ -1,0 +1,8 @@
+version: "3.0"
+services: 
+  webserver:
+    image: php:7.4-apache
+    volumes:
+      - "./html:/var/www/html"
+    ports:
+      - "31400:80"
